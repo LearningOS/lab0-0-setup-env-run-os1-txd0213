@@ -14,7 +14,7 @@
 
 **方法一：**
 
-    重新点击加入课程的链接，在页面下方会有一行字“We've configured the repository associated with this assignment (update)”，“update”是一个链接，点击 update 就可以把自己的仓库更新到与最新状态的 repository template 一致。
+    重新点击加入课程的链接，在页面下方会有一行字“We've configured the repository associated with this assignment (update)”，“update”是一个链接，点击 update 就可以把自己的仓库更新到与最新状态的 repository template 一致。d
 
 ​      
 **方法二：**
